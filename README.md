@@ -1,16 +1,7 @@
-Feature: Bootcamp E2E
+Run project
 
-Scenario: Search bar
+1. Open terminal and type npm install or npm i
+2. In the terminal type command "npm run wdio"
 
-Open the home page
-Close the promo banner if it appears
-Entry the word "Windows" in the search bar (top middle)
-Click the search
-Check that at least one item appears
-
-Scenario: Internet shop logo button
-Open the home page
-Close the promo banner if it appears
-Open "Today's Best Deals" tab
-Click on the Internet shop logo (top right corner)
-Check that the main page opened
+Also, i have faced a follow problem. Modal window(pop-up), doesn't appear at all. (Possible "Black Friday" action is over)
+I wrote a some code for this scenario, but i use comments, to avoid crash my project
