@@ -18,10 +18,7 @@ When(`Entry the word "Windows" in the search bar`, async () => {
 });
 
 When(`Click the search`, async () => {
-  const button = await $(
-    '#app > header > div.page-content-inner > div:nth-child(1) > div.section-left.auto-flex > div.header2021-search.auto-flex > form > div > div.header2021-search-button > button',
-  );
-
+  const button = await $('div.header2021-search-button > button');
   await button.click();
 });
 
