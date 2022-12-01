@@ -1,4 +1,4 @@
-@wip
+
 Feature:Bootcamp E2E
 
 
