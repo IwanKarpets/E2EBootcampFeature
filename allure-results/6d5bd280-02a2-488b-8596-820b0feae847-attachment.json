@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".item-cell\"}\n  (Session info: chrome=107.0.5304.122)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0154ACD3+2075859]\n\tOrdinal0 [0x014DEE61+1633889]\n\tOrdinal0 [0x013DB7BD+571325]\n\tOrdinal0 [0x0140AC2F+764975]\n\tOrdinal0 [0x0140AE1B+765467]\n\tOrdinal0 [0x0143D0F2+970994]\n\tOrdinal0 [0x01427364+881508]\n\tOrdinal0 [0x0143B56A+963946]\n\tOrdinal0 [0x01427136+880950]\n\tOrdinal0 [0x013FFEFD+720637]\n\tOrdinal0 [0x01400F3F+724799]\n\tGetHandleVerifier [0x017FEED2+2769538]\n\tGetHandleVerifier [0x017F0D95+2711877]\n\tGetHandleVerifier [0x015DA03A+521194]\n\tGetHandleVerifier [0x015D8DA0+516432]\n\tOrdinal0 [0x014E682C+1665068]\n\tOrdinal0 [0x014EB128+1683752]\n\tOrdinal0 [0x014EB215+1683989]\n\tOrdinal0 [0x014F6484+1729668]\n\tBaseThreadInitThunk [0x764E6A14+36]\n\tRtlInitializeExceptionChain [0x774BA9EF+143]\n\tRtlInitializeExceptionChain [0x774BA9BA+90]\n"
+}
